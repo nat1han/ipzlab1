@@ -1,0 +1,9 @@
+E:\1MAIN\3 курс\IПЗ\lab1\Fibonachi\Fibonachi\bin\Release\Fibonachi.exe.config
+E:\1MAIN\3 курс\IПЗ\lab1\Fibonachi\Fibonachi\bin\Release\Fibonachi.exe
+E:\1MAIN\3 курс\IПЗ\lab1\Fibonachi\Fibonachi\bin\Release\Fibonachi.pdb
+E:\1MAIN\3 курс\IПЗ\lab1\Fibonachi\Fibonachi\obj\Release\Fibonachi.Form1.resources
+E:\1MAIN\3 курс\IПЗ\lab1\Fibonachi\Fibonachi\obj\Release\Fibonachi.Properties.Resources.resources
+E:\1MAIN\3 курс\IПЗ\lab1\Fibonachi\Fibonachi\obj\Release\Fibonachi.csproj.GenerateResource.cache
+E:\1MAIN\3 курс\IПЗ\lab1\Fibonachi\Fibonachi\obj\Release\Fibonachi.csproj.CoreCompileInputs.cache
+E:\1MAIN\3 курс\IПЗ\lab1\Fibonachi\Fibonachi\obj\Release\Fibonachi.exe
+E:\1MAIN\3 курс\IПЗ\lab1\Fibonachi\Fibonachi\obj\Release\Fibonachi.pdb
